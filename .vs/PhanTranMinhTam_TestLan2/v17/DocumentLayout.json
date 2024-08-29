@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|c:\\users\\phan tran minh tam\\source\\repos\\phantranminhtam_testlan2\\phantranminhtam_testlan2\\services\\scheduleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|solutionrelative:phantranminhtam_testlan2\\services\\scheduleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|c:\\users\\phan tran minh tam\\source\\repos\\phantranminhtam_testlan2\\phantranminhtam_testlan2\\services\\musicservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|solutionrelative:phantranminhtam_testlan2\\services\\musicservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|c:\\users\\phan tran minh tam\\source\\repos\\phantranminhtam_testlan2\\phantranminhtam_testlan2\\converters\\timespanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|solutionrelative:phantranminhtam_testlan2\\converters\\timespanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|c:\\users\\phan tran minh tam\\source\\repos\\phantranminhtam_testlan2\\phantranminhtam_testlan2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|solutionrelative:phantranminhtam_testlan2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|c:\\users\\phan tran minh tam\\source\\repos\\phantranminhtam_testlan2\\phantranminhtam_testlan2\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|solutionrelative:phantranminhtam_testlan2\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|c:\\users\\phan tran minh tam\\source\\repos\\phantranminhtam_testlan2\\phantranminhtam_testlan2\\models\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|solutionrelative:phantranminhtam_testlan2\\models\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|c:\\users\\phan tran minh tam\\source\\repos\\phantranminhtam_testlan2\\phantranminhtam_testlan2\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|solutionrelative:phantranminhtam_testlan2\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|c:\\users\\phan tran minh tam\\source\\repos\\phantranminhtam_testlan2\\phantranminhtam_testlan2\\data\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|solutionrelative:phantranminhtam_testlan2\\data\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|c:\\users\\phan tran minh tam\\source\\repos\\phantranminhtam_testlan2\\phantranminhtam_testlan2\\mappings\\mappingmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|solutionrelative:phantranminhtam_testlan2\\mappings\\mappingmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|c:\\users\\phan tran minh tam\\source\\repos\\phantranminhtam_testlan2\\phantranminhtam_testlan2\\models\\musicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|solutionrelative:phantranminhtam_testlan2\\models\\musicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|c:\\users\\phan tran minh tam\\source\\repos\\phantranminhtam_testlan2\\phantranminhtam_testlan2\\models\\updatemusicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|solutionrelative:phantranminhtam_testlan2\\models\\updatemusicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|c:\\users\\phan tran minh tam\\source\\repos\\phantranminhtam_testlan2\\phantranminhtam_testlan2\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|solutionrelative:phantranminhtam_testlan2\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|c:\\users\\phan tran minh tam\\source\\repos\\phantranminhtam_testlan2\\phantranminhtam_testlan2\\migrations\\20240829092708_addmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|solutionrelative:phantranminhtam_testlan2\\migrations\\20240829092708_addmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|c:\\users\\phan tran minh tam\\source\\repos\\phantranminhtam_testlan2\\phantranminhtam_testlan2\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|solutionrelative:phantranminhtam_testlan2\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|c:\\users\\phan tran minh tam\\source\\repos\\phantranminhtam_testlan2\\phantranminhtam_testlan2\\reponsitory\\reponsitorywapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|solutionrelative:phantranminhtam_testlan2\\reponsitory\\reponsitorywapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|c:\\users\\phan tran minh tam\\source\\repos\\phantranminhtam_testlan2\\phantranminhtam_testlan2\\reponsitory\\reponsitorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0A1003-6E4E-4170-B474-0BE8E2E99E69}|PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2.csproj|solutionrelative:phantranminhtam_testlan2\\reponsitory\\reponsitorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Migrations\\20240829083719_AddMusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhanTranMinhTam_TestLan2\\Migrations\\20240829083719_AddMusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicServices.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Services\\MusicServices.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Services\\MusicServices.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Services\\MusicServices.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Services\\MusicServices.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwHsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:16:27.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeSpanConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Converters\\TimeSpanConverter.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Converters\\TimeSpanConverter.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Converters\\TimeSpanConverter.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Converters\\TimeSpanConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:33:04.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Program.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Program.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Program.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:09:34.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScheduleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Models\\ScheduleDTO.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Models\\ScheduleDTO.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Models\\ScheduleDTO.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Models\\ScheduleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:16:21.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Controllers\\ScheduleController.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Controllers\\ScheduleController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:54:18.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScheduleServices.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Services\\ScheduleServices.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Services\\ScheduleServices.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Services\\ScheduleServices.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Services\\ScheduleServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:07:02.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusicController.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Controllers\\MusicController.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Controllers\\MusicController.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Controllers\\MusicController.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Controllers\\MusicController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:57:00.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Data\\Schedule.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Data\\Schedule.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Data\\Schedule.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Data\\Schedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:01:32.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingMusic.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Mappings\\MappingMusic.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Mappings\\MappingMusic.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Mappings\\MappingMusic.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Mappings\\MappingMusic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:10:10.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MusicDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Models\\MusicDTO.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Models\\MusicDTO.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Models\\MusicDTO.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Models\\MusicDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:00:59.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateMusicDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Models\\UpdateMusicDTO.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Models\\UpdateMusicDTO.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Models\\UpdateMusicDTO.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Models\\UpdateMusicDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:41:40.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Migrations\\MyDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Migrations\\MyDbContextModelSnapshot.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:13:29.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240829092708_AddMusic.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Migrations\\20240829092708_AddMusic.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Migrations\\20240829092708_AddMusic.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Migrations\\20240829092708_AddMusic.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Migrations\\20240829092708_AddMusic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:27:08.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:11:45.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReponsitoryWapper.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Reponsitory\\ReponsitoryWapper.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Reponsitory\\ReponsitoryWapper.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Reponsitory\\ReponsitoryWapper.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Reponsitory\\ReponsitoryWapper.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:41:01.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReponsitoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Reponsitory\\ReponsitoryBase.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Reponsitory\\ReponsitoryBase.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Reponsitory\\ReponsitoryBase.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Reponsitory\\ReponsitoryBase.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:40:46.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240829083719_AddMusic.cs",
+              "DocumentMoniker": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Migrations\\20240829083719_AddMusic.cs",
+              "RelativeDocumentMoniker": "PhanTranMinhTam_TestLan2\\Migrations\\20240829083719_AddMusic.cs",
+              "ToolTip": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\Migrations\\20240829083719_AddMusic.cs",
+              "RelativeToolTip": "PhanTranMinhTam_TestLan2\\Migrations\\20240829083719_AddMusic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:37:19.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

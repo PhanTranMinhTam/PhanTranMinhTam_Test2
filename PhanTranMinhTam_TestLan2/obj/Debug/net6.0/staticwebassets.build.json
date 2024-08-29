@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "H0DysFxpbgLIoMiVXYK3A0AaJDV7FffRRDRMiWnnz98=",
+  "Source": "PhanTranMinhTam_TestLan2",
+  "BasePath": "_content/PhanTranMinhTam_TestLan2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PhanTranMinhTam_TestLan2\\wwwroot",
+      "Source": "PhanTranMinhTam_TestLan2",
+      "ContentRoot": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\wwwroot\\",
+      "BasePath": "_content/PhanTranMinhTam_TestLan2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\wwwroot\\images\\00701239-2c7b-4914-b9eb-b9547cec0138_string",
+      "SourceId": "PhanTranMinhTam_TestLan2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\wwwroot\\",
+      "BasePath": "_content/PhanTranMinhTam_TestLan2",
+      "RelativePath": "images/00701239-2c7b-4914-b9eb-b9547cec0138_string",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\00701239-2c7b-4914-b9eb-b9547cec0138_string"
+    },
+    {
+      "Identity": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\wwwroot\\images\\0f26f79e-18d9-4fc2-9ef9-204163748735_Green Anime Aesthetic Minimal Planner Organizer Desktop Wallpaper.png",
+      "SourceId": "PhanTranMinhTam_TestLan2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\wwwroot\\",
+      "BasePath": "_content/PhanTranMinhTam_TestLan2",
+      "RelativePath": "images/0f26f79e-18d9-4fc2-9ef9-204163748735_Green Anime Aesthetic Minimal Planner Organizer Desktop Wallpaper.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\0f26f79e-18d9-4fc2-9ef9-204163748735_Green Anime Aesthetic Minimal Planner Organizer Desktop Wallpaper.png"
+    },
+    {
+      "Identity": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\wwwroot\\images\\8dffbc26-41f1-4dc3-8eb5-936d8e3fc28e_Green Anime Aesthetic Minimal Planner Organizer Desktop Wallpaper.png",
+      "SourceId": "PhanTranMinhTam_TestLan2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Phan Tran Minh Tam\\source\\repos\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\wwwroot\\",
+      "BasePath": "_content/PhanTranMinhTam_TestLan2",
+      "RelativePath": "images/8dffbc26-41f1-4dc3-8eb5-936d8e3fc28e_Green Anime Aesthetic Minimal Planner Organizer Desktop Wallpaper.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8dffbc26-41f1-4dc3-8eb5-936d8e3fc28e_Green Anime Aesthetic Minimal Planner Organizer Desktop Wallpaper.png"
+    }
+  ]
+}
